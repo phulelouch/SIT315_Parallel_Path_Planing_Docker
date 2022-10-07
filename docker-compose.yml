@@ -1,0 +1,9 @@
+version: "2.2"
+services:
+  project:
+    build: .
+    ports:
+      - "4567:4567"
+    command: /home/project/build/path_planning
+
+#docker-compose run -p 4567:4567 --rm project
