@@ -1,5 +1,5 @@
 # SIT315_Parallel_Path_Planing_Docker
-https://youtu.be/02Z2GojQh8s
+[VIDEO](https://youtu.be/02Z2GojQh8s)
 
 [REPORT](https://github.com/phulelouch/SIT315_Parallel_Path_Planning_Docker/blob/master/FINAL_REPORT.pdf)
 
